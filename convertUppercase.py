@@ -1,0 +1,1 @@
+# accept a list of strings and return a new list with all strings converted to uppercase
